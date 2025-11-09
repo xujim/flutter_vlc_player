@@ -3,7 +3,7 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dsolidsoftwarehq%26type%3Dpatrons&style=flat)](https://patreon.com/solidsoftwarehq)
 [![flutter_vlc_player](https://nokycucwgzweensacwfy.supabase.co/functions/v1/get_project_badge?projectId=148)](https://nokycucwgzweensacwfy.supabase.co/functions/v1/get_project_url?projectId=148)
 
-A VLC-powered alternative to Flutter's video_player that supports iOS and Android.
+A VLC-powered alternative to Flutter's video_player that supports iOS and Android..
 
 <div>
   <img src="/flutter_vlc_player/doc/single.jpg" height="400">
